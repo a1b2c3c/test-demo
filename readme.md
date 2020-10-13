@@ -12,4 +12,6 @@
 ### 5 git branch -M main
 ### 6 git remote add origin https://github.com/a1b2c3c/test-demo.git
 ### 7 git push -u origin main --推送到主线上
+### 8 删除一个文件用git rm 文件名,然后用git add .
+### 9 查看git的状态 git status
 
