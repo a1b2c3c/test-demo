@@ -14,4 +14,4 @@
 ### 7 git push -u origin main --推送到主线上
 ### 8 删除一个文件用git rm 文件名,然后用git add .
 ### 9 查看git的状态 git status
-
+### 10 git log是查看git操作的日志，退出按Q键
